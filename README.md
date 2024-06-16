@@ -1,7 +1,8 @@
 #Windows PE Basic Enhanced
 Windows PE Basic Enhanced is a portable Windows recovery, troubleshooting and diagnostic tool that is based from Windows 11 PE version 24H2 (Windows ADK May 2024). <br>
 It is inspired by my other project which is Windows PE Basic that is located on https://github.com/thedoggybrad/WindowsPEBasic/.
-<br><br>
+
+## Additional Custom Tools
 It contains the following set of custom tools, I personally added that are useful for troubleshooting, diagnostic and recovery:
 <br>
 •cpuz.exd - CPUID CPU-Z<br>
@@ -12,5 +13,6 @@ It contains the following set of custom tools, I personally added that are usefu
 •procexp.exe - SysInternals Process Explorer<br>
 •procmon.exe - SysInternals Process Monitor<br>
 •RAMMap.exe - SysInternals RAM Map <br>
-<br><br>
+
+## Tools and Commands from Windows PE
 Plus all of the built-in tools and commands from Windows PE that compose of selected Windows NT tools such as Notepad, Registry Editor, SFC, DISM, BCDBOOT,  DIR, DISKPART, CHKDSK and more.
