@@ -1,0 +1,7 @@
+# GitHub Pages configuration
+markdown: kramdown
+theme: jekyll-theme-cayman
+title: Windows PE Basic Enhanced | TheDoggyBrad
+
+# Set the main page
+index.md: README.md
