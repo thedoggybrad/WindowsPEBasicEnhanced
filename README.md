@@ -56,7 +56,11 @@ Some familar commands from Windows NT such as SHUTDOWN and more are not availabl
 •procexp.exe - SysInternals Process Explorer<br>
 •procmon.exe - SysInternals Process Monitor<br>
 •RAMMap.exe - SysInternals RAM Map <br>
-Use the same filenames as the following to achieve what this project offers.
+Use the same filenames as the following to achieve what this project offers.<br>
+6.) Type the following commands:
+`Dism /Unmount-Image /MountDir:c:\winpe\mount /Commit`
+`MakeWinPEMedia /ISO c:\winpe c:\winpe\WinPE_custom.iso`<br>
+7.) And you're done... Your generated ISO File is located on c:\winpe\WinPE_custom.iso. You may now use it.
 
 
 
