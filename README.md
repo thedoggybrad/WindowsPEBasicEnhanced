@@ -15,4 +15,5 @@ It contains the following set of custom tools, I personally added that are usefu
 •RAMMap.exe - SysInternals RAM Map <br>
 
 ## Tools and Commands from Windows PE
-Plus all of the built-in tools and commands from Windows PE that compose of selected Windows NT tools such as Notepad, Registry Editor, SFC, DISM, BCDBOOT,  DIR, DISKPART, CHKDSK and more.
+Plus all of the built-in tools and commands from Windows PE that compose of selected Windows NT tools such as Notepad, Registry Editor, SFC, DISM, BCDBOOT,  DIR, DISKPART, CHKDSK, MD, CD and more.<br>
+Some familar commands from Windows NT such as SHUTDOWN (use exit instead)are not available.
