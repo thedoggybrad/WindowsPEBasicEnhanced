@@ -1,3 +1,7 @@
+#### Easter Egg Alert🐰
+Look closely at the wallpaper!
+
+
 # Windows PE Basic Enhanced
 ![Screenshot](https://github.com/thedoggybrad/WindowsPEBasicEnhanced/raw/main/WindowsPEBasicEnhanced.jpg)
 Windows PE Basic Enhanced is a portable Windows recovery, deployment, troubleshooting and diagnostic tool that is based from Windows 11 PE version 24H2 (Windows ADK May 2024). <br>
@@ -62,9 +66,3 @@ Use the same filenames as the following to achieve what this project offers.<br>
 `Dism /Unmount-Image /MountDir:c:\winpe\mount /Commit`
 `MakeWinPEMedia /ISO c:\winpe c:\winpe\WinPE_custom.iso`<br>
 7.) And you're done... Your generated ISO File is located on c:\winpe\WinPE_custom.iso. You may now use it.
-
-
-
-
-#### Easter Egg🐰
-Look closely at the wallpaper!
