@@ -4,7 +4,7 @@ Look closely at the wallpaper! It's not the default Windows PE wallpaper. Learn 
 # Windows PE Basic Enhanced
 ![Screenshot](https://github.com/thedoggybrad/WindowsPEBasicEnhanced/raw/main/WindowsPEBasicEnhanced.jpg)
 Windows PE Basic Enhanced is a portable Windows recovery, deployment, troubleshooting and diagnostic tool that is based from Windows 11 PE version 24H2 (Windows ADK May 2024). <br>
-It is inspired by my other project which is Windows PE Basic that is located on https://github.com/thedoggybrad/WindowsPEBasic/.
+It is inspired by my other project which is Windows PE Basic that is located on [https://github.com/thedoggybrad/WindowsPEBasic/](https://github.com/thedoggybrad/WindowsPEBasic/).
 
 ## Download Link (391MB ISO File)
 [https://github.com/thedoggybrad/WindowsPEBasicEnhanced/releases/download/1.0/WinPEBasicEnhanced.iso](https://github.com/thedoggybrad/WindowsPEBasicEnhanced/releases/download/1.0/WinPEBasicEnhanced.iso)
