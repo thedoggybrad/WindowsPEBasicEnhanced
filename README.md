@@ -39,3 +39,7 @@ Some familar commands from Windows NT such as SHUTDOWN and more are not availabl
 1.) To Restart your PC, type "exit" on the Command Prompt window and hit ENTER. Shutdown is not supported.
 <br>
 2.) The UI is commandline, so to access GUI/Non-GUI apps you need to type the exact application name in the Command Prompt window. For my custom tools, just refer to the ".exe" titles and for built-in Windows PE tools and commands be sure to research or memorize it.
+
+
+#### Easter Egg🐰
+Look closely at the wallpaper!
