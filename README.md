@@ -1,6 +1,5 @@
 #### Easter Egg Alert🐰
-Look closely at the wallpaper! It's not the default Windows PE wallpaper. Learn how I have done it by going to the section named "Steps to replicate it yourself"
-
+Look closely at the wallpaper! It's not the default Windows PE wallpaper. Learn how I have done it by going to the section named "Steps to replicate it yourself".
 
 # Windows PE Basic Enhanced
 ![Screenshot](https://github.com/thedoggybrad/WindowsPEBasicEnhanced/raw/main/WindowsPEBasicEnhanced.jpg)
